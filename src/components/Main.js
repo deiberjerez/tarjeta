@@ -1,4 +1,4 @@
-import react from "react"
+/* eslint-disable jsx-a11y/alt-text */
 import emailLogo from "../images/Mail.png"
 import linkedinLogo from "../images/linkedin.png"
 

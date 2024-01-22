@@ -1,4 +1,3 @@
-import react from "react"
 import twitterLogo from "../images/Twitter Icon.png"
 import instaLogo from "../images/Instagram Icon.png"
 import githubLogo from "../images/GitHub Icon.png"
